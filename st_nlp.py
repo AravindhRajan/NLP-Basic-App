@@ -31,7 +31,8 @@ import pydeck as pdk
 #import altair as alt 
 from datetime import datetime
 #import nltk
-from nltk.tokenize import word_tokenize, sent_tokenize
+from nltk.tokenize import word_tokenize
+from nltk.tokenize import sent_tokenize
 from nltk.corpus import stopwords
 from string import punctuation
 #nltk.download('stopwords')
