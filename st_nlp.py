@@ -11,7 +11,7 @@ import pickle
 import os
 import random
 #import seaborn as sns
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 #from sklearn.model_selection import train_test_split
 #from sklearn.ensemble import RandomForestRegressor
 #from sklearn.ensemble import RandomForestClassifier
@@ -25,10 +25,10 @@ import matplotlib.pyplot as plt
 #from sklearn.preprocessing import normalize 
 #from sklearn.decomposition import PCA 
 #from sklearn.cluster import KMeans
-import plotly.express as px
+#import plotly.express as px
 import streamlit as st
 import pydeck as pdk 
-import altair as alt 
+#import altair as alt 
 from datetime import datetime
 import nltk
 from nltk.tokenize import word_tokenize, sent_tokenize
