@@ -30,7 +30,7 @@ import streamlit as st
 import pydeck as pdk 
 #import altair as alt 
 from datetime import datetime
-import nltk
+#import nltk
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 from string import punctuation
